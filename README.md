@@ -58,7 +58,7 @@ If needed, install them from [how to install dependeces](https://github.com/dani
 
 ### 2. Download the project package and Install it
     
-download the movie classifier library: [movie_classifier-0.1.tar.gz](https://drive.google.com/file/d/1fyhltCzaJ1oKd4MxUhCct6L0mS5dvQuC/view?usp=sharing)
+download the movie classifier library: [movie_classifier-0.1.tar.gz](https://drive.google.com/file/d/1dAXqaKM8uRcO2G2FngD25HrD8xpq9psK/view?usp=sharing)
     
     pip install path/to/movie_classifier-0.1.tar.gz
 
