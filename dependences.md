@@ -5,6 +5,7 @@
     sudo apt-get update
     sudo apt-get install python3.8
     sudo apt-get install python3.8-venv
+    sudo apt install python3-h5py
 
 ## Docker
 
