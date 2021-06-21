@@ -15,7 +15,7 @@ def load_model(model_dir):
 
 def load_latest_model(models_dir=MODELS_DIR):
     models_folder = os.listdir(models_dir)
-    models_folder_path = [f'{models_dir}{x}/' for x in models_folder if not str(x).startswith('.')]
+    models_folder_path = [f'{models_dir}{x}/' for x in models_folder if str(x).startswith('LSTM_model')]
     latest_model = max(models_folder_path, key=os.path.getctime)
     model_name = latest_model.split('/')[-2]
 
