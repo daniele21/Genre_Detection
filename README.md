@@ -45,20 +45,22 @@ Text Classification
 
 ### 0. Check Dependences
 
-- python >= 3.8
+- python == 3.8
 - docker >= 20
 
 If needed, install them from [how to install dependeces](https://github.com/daniele21/movie_classifier/blob/master/dependences.md)
 
 ### 1. Create a virtual environment
 
+    sudo chmod 666 /var/run/docker.sock
     python3.8 -m venv ./venv
     source venv/bin/activate
     pip install --upgrade pip
+    pip install wheel
 
 ### 2. Download the project package and Install it
     
-download the movie classifier library: [movie_classifier-0.1.tar.gz](https://drive.google.com/file/d/1dAXqaKM8uRcO2G2FngD25HrD8xpq9psK/view?usp=sharing)
+download the movie classifier library: [movie_classifier-0.1.tar.gz](https://drive.google.com/file/d/1Iqyjb5S_DAzXLlbMuvwIoylgojJ3O-ip/view?usp=sharing)
     
     pip install path/to/movie_classifier-0.1.tar.gz
 
