@@ -54,6 +54,7 @@ If needed, install them from [how to install dependeces](https://github.com/dani
 
     python3.8 -m venv ./venv
     source venv/bin/activate
+    pip install --upgrade pip
 
 ### 2. Download the project package and Install it
     
