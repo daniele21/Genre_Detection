@@ -48,7 +48,7 @@ Text Classification
 - python == 3.8
 - docker >= 20
 
-If needed, install them from [how to install dependeces](https://github.com/daniele21/movie_classifier/blob/master/dependences.md)
+If needed, install them from [how to install dependeces](https://github.com/daniele21/Genre_Detection/blob/master/dependences.md)
 
 ### 1. Create a virtual environment
 
