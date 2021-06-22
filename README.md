@@ -11,8 +11,8 @@ Libraries:
 
 Dependences:
 
-[![Python](https://img.shields.io/badge/Python-3.8-yellow)](https://github.com/daniele21/movie_classifier/blob/master/dependences.md)
-[![Docker](https://img.shields.io/badge/Docker-20.10.5-blue)](https://github.com/daniele21/movie_classifier/blob/master/dependences.md)
+[![Python](https://img.shields.io/badge/Python-3.8-yellow)](https://github.com/daniele21/Genre_Detection/blob/master/dependences.md)
+[![Docker](https://img.shields.io/badge/Docker-20.10.5-blue)](https://github.com/daniele21/Genre_Detection/blob/master/dependences.md)
 
 ## Contents
 - [Description](#description)
@@ -31,7 +31,7 @@ The dataset is located inside *resources* folder. You can find **train.csv** and
 
 Data features: **movie_id, title, year, genres, synopsis**
 
-Have a look: [dataset](https://raw.githubusercontent.com/daniele21/movie_classifier/master/resources/test.csv)
+Have a look: [dataset](https://github.com/daniele21/Genre_Detection/blob/master/movie_classifier/resources/test.csv)
 
 # Task
 Text Classification
